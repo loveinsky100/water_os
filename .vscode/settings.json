@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "print.h": "c",
+        "__locale": "c",
+        "locale": "c",
+        "__config": "c",
+        "stdio.h": "c",
+        "variant": "c",
+        "chrono": "c",
+        "stdint.h": "c",
+        "typeinfo": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
